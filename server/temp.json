@@ -1,0 +1,262 @@
+[
+    {
+      "name": "Arrays",
+      "problems": [
+        {
+          "title": "Find the Largest Element in an Array",
+          "level": "Easy",
+          "youtube": "https://www.youtube.com/watch?v=37E9ckMDdTk",
+          "leetcode": "https://leetcode.com/problems/maximum-subarray/",
+          "article": "https://www.geeksforgeeks.org/find-largest-element-array/",
+          "completed": false
+        },
+        {
+          "title": "Kadane’s Algorithm",
+          "level": "Medium",
+          "youtube": "https://www.youtube.com/watch?v=86CQq3pKSUw",
+          "leetcode": "https://leetcode.com/problems/maximum-subarray/",
+          "article": "https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/",
+          "completed": false
+        },
+        {
+          "title": "Sort 0s, 1s, and 2s",
+          "level": "Easy",
+          "youtube": "https://www.youtube.com/watch?v=tp8JIuCXBaU",
+          "leetcode": "https://leetcode.com/problems/sort-colors/",
+          "article": "https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/",
+          "completed": false
+        },
+        {
+          "title": "Merge Intervals",
+          "level": "Medium",
+          "youtube": "https://www.youtube.com/watch?v=44H3cEC2fFM",
+          "leetcode": "https://leetcode.com/problems/merge-intervals/",
+          "article": "https://www.geeksforgeeks.org/merging-intervals/",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Strings",
+      "problems": [
+        {
+          "title": "Check for Anagrams",
+          "level": "Easy",
+          "youtube": "https://www.youtube.com/watch?v=9UtInBqnCgA",
+          "leetcode": "https://leetcode.com/problems/valid-anagram/",
+          "article": "https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/",
+          "completed": false
+        },
+        {
+          "title": "Longest Palindromic Substring",
+          "level": "Medium",
+          "youtube": "https://www.youtube.com/watch?v=XYQecbcd6_c",
+          "leetcode": "https://leetcode.com/problems/longest-palindromic-substring/",
+          "article": "https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/",
+          "completed": false
+        },
+        {
+          "title": "String Compression",
+          "level": "Easy",
+          "youtube": "https://www.youtube.com/watch?v=I9qQ9QpDKv8",
+          "leetcode": "https://leetcode.com/problems/string-compression/",
+          "article": "https://www.geeksforgeeks.org/run-length-encoding/",
+          "completed": false
+        },
+        {
+          "title": "Minimum Window Substring",
+          "level": "Hard",
+          "youtube": "https://www.youtube.com/watch?v=9qFR2WQGqkU",
+          "leetcode": "https://leetcode.com/problems/minimum-window-substring/",
+          "article": "https://www.geeksforgeeks.org/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Linked List",
+      "problems": [
+        {
+          "title": "Reverse a Linked List",
+          "level": "Easy",
+          "youtube": "https://www.youtube.com/watch?v=O0By4Zq0OFc",
+          "leetcode": "https://leetcode.com/problems/reverse-linked-list/",
+          "article": "https://www.geeksforgeeks.org/reverse-a-linked-list/",
+          "completed": false
+        },
+        {
+          "title": "Detect Cycle in a Linked List",
+          "level": "Medium",
+          "youtube": "https://www.youtube.com/watch?v=2ZdPzK2_r9g",
+          "leetcode": "https://leetcode.com/problems/linked-list-cycle/",
+          "article": "https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/",
+          "completed": false
+        },
+        {
+          "title": "Merge Two Sorted Lists",
+          "level": "Easy",
+          "youtube": "https://www.youtube.com/watch?v=XIdigk956u0",
+          "leetcode": "https://leetcode.com/problems/merge-two-sorted-lists/",
+          "article": "https://www.geeksforgeeks.org/merge-two-sorted-linked-lists/",
+          "completed": false
+        },
+        {
+          "title": "Remove Nth Node from End",
+          "level": "Medium",
+          "youtube": "https://www.youtube.com/watch?v=XVuQxVej6y8",
+          "leetcode": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+          "article": "https://www.geeksforgeeks.org/remove-nth-node-from-end-of-linked-list/",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Trees",
+      "problems": [
+        {
+          "title": "Inorder Traversal",
+          "level": "Easy",
+          "youtube": "https://www.youtube.com/watch?v=lxTGsVXjwvM",
+          "leetcode": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+          "article": "https://www.geeksforgeeks.org/inorder-tree-traversal/",
+          "completed": false
+        },
+        {
+          "title": "level Order Traversal",
+          "level": "Medium",
+          "youtube": "https://www.youtube.com/watch?v=86g8jAQug04",
+          "leetcode": "https://leetcode.com/problems/binary-tree-order-traversal/",
+          "article": "https://www.geeksforgeeks.org/-order-tree-traversal/",
+          "completed": false
+        },
+        {
+          "title": "Height of a Tree",
+          "level": "Easy",
+          "youtube": "https://www.youtube.com/watch?v=_ANrF3FJm7I",
+          "leetcode": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+          "article": "https://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/",
+          "completed": false
+        },
+        {
+          "title": "Diameter of Binary Tree",
+          "level": "Medium",
+          "youtube": "https://www.youtube.com/watch?v=Rezetez59Nk",
+          "leetcode": "https://leetcode.com/problems/diameter-of-binary-tree/",
+          "article": "https://www.geeksforgeeks.org/diameter-of-a-binary-tree/",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Graphs",
+      "problems": [
+        {
+          "title": "BFS of Graph",
+          "level": "Easy",
+          "youtube": "https://www.youtube.com/watch?v=0u78hx-66Xk",
+          "leetcode": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
+          "article": "https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/",
+          "completed": false
+        },
+        {
+          "title": "DFS of Graph",
+          "level": "Easy",
+          "youtube": "https://www.youtube.com/watch?v=AfSk24UTFS8",
+          "leetcode": "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1",
+          "article": "https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/",
+          "completed": false
+        },
+        {
+          "title": "Detect Cycle in Undirected Graph",
+          "level": "Medium",
+          "youtube": "https://www.youtube.com/watch?v=9TwcmtQj4DU",
+          "leetcode": "https://leetcode.com/problems/course-schedule/",
+          "article": "https://www.geeksforgeeks.org/detect-cycle-undirected-graph/",
+          "completed": false
+        },
+        {
+          "title": "Topological Sort",
+          "level": "Medium",
+          "youtube": "https://www.youtube.com/watch?v=Q9PIxaNGnig",
+          "leetcode": "https://leetcode.com/problems/course-schedule-ii/",
+          "article": "https://www.geeksforgeeks.org/topological-sorting/",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Recursion & Backtracking",
+      "problems": [
+        {
+          "title": "Generate All Subsets",
+          "level": "Medium",
+          "youtube": "https://www.youtube.com/watch?v=b7AYbpM5YrE",
+          "leetcode": "https://leetcode.com/problems/subsets/",
+          "article": "https://www.geeksforgeeks.org/finding-all-subsets-of-a-given-set-in-java/",
+          "completed": false
+        },
+        {
+          "title": "N-Queens Problem",
+          "level": "Hard",
+          "youtube": "https://www.youtube.com/watch?v=1rEgZ5yebOQ",
+          "leetcode": "https://leetcode.com/problems/n-queens/",
+          "article": "https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/",
+          "completed": false
+        },
+        {
+          "title": "Rat in a Maze",
+          "level": "Medium",
+          "youtube": "https://www.youtube.com/watch?v=bLGZhJlt4y0",
+          "leetcode": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+          "article": "https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/",
+          "completed": false
+        },
+        {
+          "title": "Word Search",
+          "level": "Medium",
+          "youtube": "https://www.youtube.com/watch?v=asbcE9mZz_U",
+          "leetcode": "https://leetcode.com/problems/word-search/",
+          "article": "https://www.geeksforgeeks.org/word-search-problem/",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Dynamic Programming",
+      "problems": [
+        {
+          "title": "0/1 Knapsack",
+          "level": "Medium",
+          "youtube": "https://www.youtube.com/watch?v=GqOmJHQZivw",
+          "leetcode": "https://leetcode.com/problems/partition-equal-subset-sum/",
+          "article": "https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/",
+          "completed": false
+        },
+        {
+          "title": "Longest Increasing Subsequence",
+          "level": "Medium",
+          "youtube": "https://www.youtube.com/watch?v=9vKqVkMQHKk",
+          "leetcode": "https://leetcode.com/problems/longest-increasing-subsequence/",
+          "article": "https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/",
+          "completed": false
+        },
+        {
+          "title": "Edit Distance",
+          "level": "Hard",
+          "youtube": "https://www.youtube.com/watch?v=We3YDTzNXEk",
+          "leetcode": "https://leetcode.com/problems/edit-distance/",
+          "article": "https://www.geeksforgeeks.org/edit-distance-dp-5/",
+          "completed": false
+        },
+        {
+          "title": "Coin Change",
+          "level": "Medium",
+          "youtube": "https://www.youtube.com/watch?v=H9bfqozjoqs",
+          "leetcode": "https://leetcode.com/problems/coin-change/",
+          "article": "https://www.geeksforgeeks.org/coin-change-dp-7/",
+          "completed": false
+        }
+      ]
+    }
+  ]
+  
